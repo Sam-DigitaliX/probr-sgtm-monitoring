@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://probr.io/banner.png" alt="Probr" width="600">
+  <img src="images/probr_logo.webp" alt="Probr" width="600">
 </p>
 
 <h1 align="center">Probr — Server-Side Listener</h1>
