@@ -1,0 +1,9 @@
+repo: probr-sgtm-monitoring
+last_reviewed: 2026-06-23
+roadmap:
+  - id: sgtm-gallery-submission
+    title: "Soumission Community Template Gallery + pré-requis"
+    tier: P4
+    status: todo
+    pointer: "CLAUDE.md TODO"
+    note: "Prérequis : endpoint ingest prod stable (OK) + doc gtm-listener en ligne"
